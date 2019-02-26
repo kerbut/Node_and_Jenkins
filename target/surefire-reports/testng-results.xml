@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="68611" started-at="2019-02-26T11:23:10Z" finished-at="2019-02-26T11:24:19Z">
+    <groups>
+    </groups>
+    <test name="Screenshots" duration-ms="68611" started-at="2019-02-26T11:23:10Z" finished-at="2019-02-26T11:24:19Z">
+      <class name="Wiki">
+        <test-method status="PASS" signature="ItIsTest()[pri:0, instance:Wiki@21bcffb5]" name="ItIsTest" duration-ms="68585" started-at="2019-02-26T11:23:10Z" finished-at="2019-02-26T11:24:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ItIsTest -->
+      </class> <!-- Wiki -->
+    </test> <!-- Screenshots -->
+  </suite> <!-- Suite1 -->
+</testng-results>
